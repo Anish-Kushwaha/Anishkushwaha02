@@ -15,13 +15,14 @@ I'm Anish Kushwaha
 - 📲 Telegram: [t.me/Anish_kushwaha_k](https://t.me/Anish_kushwaha_k)  
 - 📘 Facebook: [facebook.com/Anishkushwahaji](https://www.facebook.com/Anishkushwahaji)  
 - 🐦 X (Twitter): [x.com/Anish_Kushwaha_](https://x.com/Anish_Kushwaha_)  
-- ▶️ YouTube: [@cosmologist_anis h](https://youtube.com/@cosmologist_anis h)  
+- ▶️ YouTube: [@cosmologist_anish](https://youtube.com/@cosmologist_anish)  
 
 ---
 
 ## 🏢 Company
 **Kushwaha Group of Industries PVT. LTD.**
 
+*🪐 Don't forget to follow *
 ---
 
 ✨ *Thanks for visiting my GitHub profile!*
@@ -38,5 +39,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->

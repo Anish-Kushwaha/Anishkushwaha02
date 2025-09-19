@@ -17,8 +17,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anishkushwaha02&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishkushwaha02&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anish-Kushwaha&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Kushwaha&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -27,8 +27,7 @@
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**  
 - 💡 Developer in **Python, Bash, and Java**  
 - 🌍 Exploring **Bug Hunting & PenTesting**  
-- 🎯 Goal → **Advanced Security Researcher & Tool Builder**  
-- ⚡ Fun Fact → I can consciously control **sweating** (biofeedback-like 😎)  
+- 🎯 Goal → **Advanced Security Researcher & Tool Builder**
 
 ---
 
